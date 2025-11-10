@@ -1,3 +1,5 @@
+### REG.NO:212224110035
+
 ### Experiment 1: Decentralized Certificate Verification
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
@@ -30,7 +32,7 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
-```
+
 ● When the university issues a certificate, it gets stored as a hash.
 ● A student or employer can verify the certificate by entering the details.
 ● If valid, it returns true; otherwise, false.
@@ -38,6 +40,9 @@ High-Level Overview:
 ● Used to prevent fake certificates.
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
-```
-# Result:
+<img width="1911" height="1086" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/ca478fb8-19e1-42fe-a9bc-17411200bff4" />
 
+<img width="330" height="879" alt="blo 1" src="https://github.com/user-attachments/assets/12dfc3b3-0d11-4bc3-936a-3f305bfe7183" />
+
+# Result:
+Thus a smart contract was developed for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
